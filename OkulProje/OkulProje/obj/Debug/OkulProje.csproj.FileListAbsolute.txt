@@ -1,0 +1,32 @@
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\bin\Debug\OkulProje.exe.config
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\bin\Debug\OkulProje.exe
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\bin\Debug\OkulProje.pdb
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\obj\Debug\OkulProje.Form1.resources
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\obj\Debug\OkulProje.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\obj\Debug\OkulProje.exe
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\obj\Debug\OkulProje.pdb
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\obj\Debug\OkulProje.FrmOgrenciNotlar.resources
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\obj\Debug\OkulProje.FrmOgretmen.resources
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\obj\Debug\OkulProje.FrmKulup.resources
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\obj\Debug\OkulProje.FrmDersler.resources
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\obj\Debug\OkulProje.FrmOgrenci.resources
+C:\Users\Şafak Şahin\Desktop\OkulProje\OkulProje\obj\Debug\OkulProje.FrmSinavNotlar.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\bin\Debug\OkulProje.exe.config
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\bin\Debug\OkulProje.exe
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\bin\Debug\OkulProje.pdb
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\obj\Debug\OkulProje.Form1.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\obj\Debug\OkulProje.FrmDersler.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\obj\Debug\OkulProje.FrmKulup.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\obj\Debug\OkulProje.FrmOgrenci.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\obj\Debug\OkulProje.FrmOgrenciNotlar.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\obj\Debug\OkulProje.FrmOgretmen.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\obj\Debug\OkulProje.FrmSinavNotlar.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\obj\Debug\OkulProje.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\obj\Debug\OkulProje.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\obj\Debug\OkulProje.exe
+C:\Users\Şafak Şahin\Desktop\C# proje\OkulProje\OkulProje\obj\Debug\OkulProje.pdb
